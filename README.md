@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomer Revah</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer && BSc Software Engineering</h3>
 
 - 📫 You can reach me at **revahtomer@gmail.com**
 
-- ⚡ Fun fact: **I'm a fitness trainer**
+- ⚡ Hobbies: **Gym 🏋️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
