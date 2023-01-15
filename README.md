@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer && BSc Software Engineering</h3>
 
 - 📫 You can reach me at **revahtomer@gmail.com**
-- 👋 Portfolio: **https://portfolio-tomer-revah.herokuapp.com**
 - ⚡ Hobbies: **Gym 🏋️**
 
 <h3 align="left">Connect with me:</h3>
